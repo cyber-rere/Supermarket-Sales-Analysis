@@ -2,14 +2,14 @@
 ## Project Overview
 This project focuses on the analysis of the Supermarket Sales dataset.
 
-##Tools Used
+## Tools Used
 • Python
 • Pandas
 • Matplotlib
 • Seaborn
 • Google Colab
 
-##Dataset
+## Dataset
 Supermarket Sales Dataset from Kaggle.
 
-Key Insights
+## Key Insights
