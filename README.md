@@ -1,5 +1,5 @@
 # Supermarket Sales Analysis
-Project Overview
+## Project Overview
 This project focuses on the analysis of the Supermarket Sales dataset.
 
 Tools Used
